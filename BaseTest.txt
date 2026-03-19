@@ -1,0 +1,1 @@
+Global Timeout = 5 seconds
