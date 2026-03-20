@@ -1,1 +1,2 @@
-Global Timeout = 5 seconds
+Global Timeout = 20 seconds
+Cart Timeout = 10 seconds
